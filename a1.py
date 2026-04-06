@@ -1,1 +1,3 @@
-cout <<a<<endl;
+cout <<a<<endl; continue;
+home other
+
